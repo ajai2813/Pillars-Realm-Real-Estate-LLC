@@ -28,7 +28,7 @@ pillarsre/
 └── assets/
     ├── logo_golden.png                              # Gold transparent logo (header, footer, about)
     ├── futuristic-landscape-dubai.jpg               # Hero background image
-    └── WhatsApp Image 2026-10-19 at 6.04.37 PM (1).jpeg  # OG / social share image
+    └── og-image.jpeg                                        # OG / social share image (gold logo on black)
 ```
 
 ---
